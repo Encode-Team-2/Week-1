@@ -1,14 +1,13 @@
 # Week-1
 Weekend Project 1
 
-We have 3 deployed versions of contract
+We have deployed 3 versions of the contract
 
-V1 - Initial simple contract 
-V2 - Contract with bug in modifier
-V3 - Contract with above bug fixed
+* V1 - Initial simple contract 
+* V2 - Contract with bug in modifier
+* V3 - Contract with above bug fixed
 
-Most of thea team interacted with contract V3
-
+Most of the team interacted with contract V3
 
 ## Contract V1
 Address: `0x0D9B40EDb6dAE29856AA490c7425B8bf568b128a`
